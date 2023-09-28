@@ -19,7 +19,7 @@
 				<div class="inner">
 					<a href="#" class="image avatar"><img src="images/CSULA_portrait_cropped.jpeg" alt="" /></a>
 					<h1><strong>Margaret Lazzarini</strong></h1>
-<h1>Assistant Professor of Physics & Astronomy at <a href="https://www.calstatela.edu/nss/physics-astronomy">California State University, Los Angeles</a> <br /></h1>
+<h1>Assistant Professor of Physics & Astronomy at <a href="https://heag.caltech.edu/">California State University, Los Angeles</a> <br /></h1>
 <p>mlazz "at" calstatela "dot" edu <br /></p>
 				</div>
 			</header>
@@ -44,7 +44,7 @@
 			<footer id="footer">
 				<div class="inner">
 					<ul class="icons">
-						<li><a href="mailto:mlazz@calstatela.edu" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+						<li><a href="mailto:mlazz@caltech.edu" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 					</ul>
 					<p>Image credit: NASA, ESA, and M. Durbin, J. Dalcanton, and B. F. Williams (University of Washington)</p>
 					<ul class="copyright">
